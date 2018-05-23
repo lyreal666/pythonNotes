@@ -1,5 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding:utf-8 -*-
 #string
 #python数据类型
+
 # 1.整形
 # 2.str
 # 3.float
